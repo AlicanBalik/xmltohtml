@@ -1,0 +1,581 @@
+<Images>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\0.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\0.PNG not found!">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\0.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\0.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\1.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\1.PNG" Difference="0.746708"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\2.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\2.PNG" Difference="0.74057"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\3.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\3.PNG" Difference="0.746779"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\4.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\4.PNG" Difference="0.733269"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\5.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\5.PNG" Difference="0.742801"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\6.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\6.PNG" Difference="0.737605"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\7.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\7.PNG" Difference="0.743317"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\8.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\8.PNG" Difference="0.730718"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\9.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\9.PNG" Difference="0.0914829"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\10.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\10.PNG" Difference="0.0772386"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\11.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\11.PNG" Difference="compare.exe: image widths or heights differ `C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\11.PNG' @ error/compare.c/CompareImageCommand/990.
+"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\12.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\12.PNG" Difference="0.0885745"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\13.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\13.PNG" Difference="0.088112"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\14.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\14.PNG" Difference="0.0689285"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\15.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\15.PNG" Difference="compare.exe: image widths or heights differ `C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\15.PNG' @ error/compare.c/CompareImageCommand/990.
+"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\16.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\16.PNG" Difference="0.0763513"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\17.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\17.PNG" Difference="0.0882338"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\18.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\18.PNG" Difference="0.0809657"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\19.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\19.PNG" Difference="compare.exe: image widths or heights differ `C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\19.PNG' @ error/compare.c/CompareImageCommand/990.
+"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\20.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\20.PNG" Difference="0.089619"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\21.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\21.PNG" Difference="0.0879304"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\22.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\22.PNG" Difference="0.0807315"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\23.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\23.PNG" Difference="compare.exe: image widths or heights differ `C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\23.PNG' @ error/compare.c/CompareImageCommand/990.
+"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\24.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\24.PNG" Difference="0.0892772"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\25.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\25.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\25.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\26.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\26.PNG" Difference="0.287641"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\27.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\27.PNG" Difference="compare.exe: image widths or heights differ `C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\27.PNG' @ error/compare.c/CompareImageCommand/990.
+"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\28.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\28.PNG" Difference="0.284901"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\29.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\29.PNG" Difference="0.314961"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\30.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\30.PNG" Difference="0.30426"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\31.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\31.PNG" Difference="0.33269"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\32.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\32.PNG" Difference="0.326223"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\33.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\33.PNG not found!">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\33.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\33.PNG and C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\33.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\34.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\34.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\34.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\35.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\35.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\35.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\36.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\36.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\36.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\37.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\37.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\37.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\38.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\38.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\38.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\39.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\39.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\39.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\40.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\40.PNG not found!">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\40.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\40.PNG and C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\40.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\41.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\41.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\41.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\42.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\42.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\42.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\43.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\43.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\43.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\44.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\44.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\44.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\45.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\45.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\45.PNG not found!"/>
+	</ResourceImage>
+<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\0.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\0.PNG not found!">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\0.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\0.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\1.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\1.PNG" Difference="0.746708"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\2.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\2.PNG" Difference="0.74057"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\3.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\3.PNG" Difference="0.746779"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\4.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\4.PNG" Difference="0.733269"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\5.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\5.PNG" Difference="0.742801"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\6.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\6.PNG" Difference="0.737605"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\7.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\7.PNG" Difference="0.743317"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\8.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\8.PNG" Difference="0.730718"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\9.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\9.PNG" Difference="0.0914829"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\10.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\10.PNG" Difference="0.0772386"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\11.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\11.PNG" Difference="compare.exe: image widths or heights differ `C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\11.PNG' @ error/compare.c/CompareImageCommand/990.
+"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\12.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\12.PNG" Difference="0.0885745"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\13.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\13.PNG" Difference="0.088112"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\14.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\14.PNG" Difference="0.0689285"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\15.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\15.PNG" Difference="compare.exe: image widths or heights differ `C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\15.PNG' @ error/compare.c/CompareImageCommand/990.
+"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\16.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\16.PNG" Difference="0.0763513"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\17.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\17.PNG" Difference="0.0882338"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\18.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\18.PNG" Difference="0.0809657"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\19.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\19.PNG" Difference="compare.exe: image widths or heights differ `C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\19.PNG' @ error/compare.c/CompareImageCommand/990.
+"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\20.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\20.PNG" Difference="0.089619"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\21.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\21.PNG" Difference="0.0879304"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\22.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\22.PNG" Difference="0.0807315"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\23.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\23.PNG" Difference="compare.exe: image widths or heights differ `C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\23.PNG' @ error/compare.c/CompareImageCommand/990.
+"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\24.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\24.PNG" Difference="0.0892772"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\25.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\25.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\25.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\26.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\26.PNG" Difference="0.287641"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\27.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\27.PNG" Difference="compare.exe: image widths or heights differ `C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\27.PNG' @ error/compare.c/CompareImageCommand/990.
+"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\28.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\28.PNG" Difference="0.284901"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\29.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\29.PNG" Difference="0.314961"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\30.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\30.PNG" Difference="0.30426"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\31.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\31.PNG" Difference="0.33269"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\32.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\32.PNG" Difference="0.326223"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\33.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\33.PNG not found!">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\33.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\33.PNG and C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\33.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\34.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\34.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\34.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\35.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\35.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\35.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\36.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\36.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\36.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\37.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\37.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\37.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\38.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\38.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\38.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\39.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\39.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\39.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\40.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\40.PNG not found!">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\40.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\40.PNG and C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\40.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\41.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\41.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\41.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\42.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\42.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\42.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\43.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\43.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\43.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\44.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\44.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\44.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\45.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\45.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\45.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\46.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\46.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\46.PNG not found!"/>
+	</ResourceImage>
+<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\0.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\0.PNG not found!">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\0.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\0.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\1.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\1.PNG" Difference="0.746708"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\2.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\2.PNG" Difference="0.74057"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\3.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\3.PNG" Difference="0.746779"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\4.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\4.PNG" Difference="0.733269"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\5.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\5.PNG" Difference="0.742801"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\6.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\6.PNG" Difference="0.737605"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\7.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\7.PNG" Difference="0.743317"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\8.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\8.PNG" Difference="0.730718"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\9.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\9.PNG" Difference="0.0914829"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\10.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\10.PNG" Difference="0.0772386"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\11.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\11.PNG" Difference="compare.exe: image widths or heights differ `C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\11.PNG' @ error/compare.c/CompareImageCommand/990.
+"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\12.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\12.PNG" Difference="0.0885745"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\13.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\13.PNG" Difference="0.088112"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\14.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\14.PNG" Difference="0.0689285"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\15.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\15.PNG" Difference="compare.exe: image widths or heights differ `C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\15.PNG' @ error/compare.c/CompareImageCommand/990.
+"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\16.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\16.PNG" Difference="0.0763513"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\17.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\17.PNG" Difference="0.0882338"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\18.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\18.PNG" Difference="0.0809657"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\19.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\19.PNG" Difference="compare.exe: image widths or heights differ `C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\19.PNG' @ error/compare.c/CompareImageCommand/990.
+"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\20.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\20.PNG" Difference="0.089619"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\21.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\21.PNG" Difference="0.0879304"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\22.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\22.PNG" Difference="0.0807315"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\23.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\23.PNG" Difference="compare.exe: image widths or heights differ `C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\23.PNG' @ error/compare.c/CompareImageCommand/990.
+"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\24.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\24.PNG" Difference="0.0892772"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\25.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\25.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\25.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\26.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\26.PNG" Difference="0.287641"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\27.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\27.PNG" Difference="compare.exe: image widths or heights differ `C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\27.PNG' @ error/compare.c/CompareImageCommand/990.
+"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\28.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\28.PNG" Difference="0.284901"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\29.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\29.PNG" Difference="0.314961"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\30.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\30.PNG" Difference="0.30426"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\31.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\31.PNG" Difference="0.33269"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\32.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\32.PNG" Difference="0.326223"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\33.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\33.PNG not found!">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\33.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\33.PNG and C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\33.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\34.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\34.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\34.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\35.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\35.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\35.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\36.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\36.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\36.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\37.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\37.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\37.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\38.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\38.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\38.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\39.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\39.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\39.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\40.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\40.PNG not found!">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\40.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\40.PNG and C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\40.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\41.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\41.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\41.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\42.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\42.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\42.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\43.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\43.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\43.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\44.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\44.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\44.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\45.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\45.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\45.PNG not found!"/>
+	</ResourceImage>
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\46.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\46.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\46.PNG not found!"/>
+	</ResourceImage>
+
+
+	<ResourceImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test16\images\46.PNG" Crop="30">
+		<GeneratedImage Name="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\46.PNG" Error="C:\Users\Cagla\Documents\GitHub\ui-automation\ui-test\experitest\reports\raw\4.3.1\apk\20150420-123023\Discovery Elite\test63\images\46.PNG not found!"/>
+	</ResourceImage>
+
+</Images>

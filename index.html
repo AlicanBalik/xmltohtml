@@ -1,0 +1,107 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Smartface Report</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="plugins/datatables/dataTables.bootstrap.css" rel="stylesheet" type="text/css" />
+     <link href="dist/css/pageDesign.min.css" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+ <section class="content">
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="box">
+                <div class="box-header">
+                   <h3 class="box-title">Smartface Cloud Reports</h3>
+                </div><!-- /.box-header -->
+                <div class="box-body">
+                    
+<script>
+    // Donusturme baslangic
+if (window.XMLHttpRequest)
+  {
+      //IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.open("GET","log.xml",false); 
+xmlhttp.send();
+xmlDoc=xmlhttp.responseXML; 
+ // -- Donusturme bitis
+document.write("<table id=\"example1\" class=\"table table-bordered table-striped datatable\"><thead><tr><th class=\"sorting\">NAME</th><th class=\"sorting\">ERROR</th><th class=\"sorting\">CROP</th><th class=\"sorting\">DIFFERENCE</th></tr></thead><tbody>");
+var x=xmlDoc.getElementsByTagName("ResourceImage");
+    //ResourceImage class i altinda var olanlari satir olarak eklemek
+for (i=0;i<x.length;i++)
+  { 
+  document.write("<tr><td >");
+  document.write(x[i].getAttribute('Name'));
+  document.write("</td><td >");
+  //document.write(x[i].getAttribute('Error'));
+      // Eslesme Dosyasi bulunamadiysa
+      if(!x[i].getAttribute('Error'))
+      {
+          document.write("Success");
+      }
+      // Eslesme Dosyasi bulunduysa
+      else
+      {
+          document.write(x[i].getAttribute('Error'));
+      }
+  document.write("</td><td >");
+  document.write(x[i].getAttribute('Crop'));
+  document.write("</td><td >");
+  document.write(x[i].getElementsByTagName("GeneratedImage")[0].getAttribute('Difference'));
+  document.write("</td></tr>");
+  }
+      document.write("</tbody></table>");
+    
+</script>
+                    <!-- Donusturme islem bitimi -->
+                </div><!-- /.box-body -->
+              </div><!-- /.box -->
+    <script src="plugins/jQuery/jQuery-2.1.4.min.js" type="text/javascript"></script>
+    <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="plugins/datatables/jquery.dataTables.min.js" type="text/javascript"></script>
+    <script src="plugins/datatables/dataTables.bootstrap.min.js" type="text/javascript"></script>         
+    <script type="text/javascript">
+      $(function () {
+        $("#example1").DataTable();
+        $('#example2').DataTable({
+          "paging": true,
+          "lengthChange": false,
+          "searching": true, // searching aktif etmek
+          "ordering": true, // filtrelemeyi aktif etmek
+          "columns": [
+          {"orderDataType": "dom-text"}, //converting islemi JS&HTML .DOM ile yazildigi icin,
+          {"orderDataType": "dom-text"}, // gelen data sutun sayisi kadar order type belirtmeliyiz.
+          {"orderDataType": "dom-text"},
+          {"orderDataType": "dom-text"}
+          ]
+          
+        }); // example2.dataTable bitimi
+      }); // fonksiyon bitimi
+    </script> 
+                <!-- text/javascript end -->
+                
+                <!-- Start of LiveChat (www.livechatinc.com) code -->
+<script type="text/javascript">
+var __lc = {};
+__lc.license = 6445781;
+
+(function() {
+  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+})();
+</script>
+<!-- End of LiveChat code -->
+                <div data-id="4d5ca9c346" class="livechat_button"><a href="http://www.livechatinc.com/customer-service-software/?partner=lc_6445781&amp;utm_source=chat_button">customer service software</a></div>
+               
+</body>
+    
+</html>
